@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crisak
 - 👀 I’m interested in javascript devopment
 - 🌱 I’m currently learning Figma
-- 💞️ I’m looking to collaborate on Globant
+- 💞️ I’m working in Vtex
 - 📫 How to reach me as crisak55 in instagram
 
 <!---
